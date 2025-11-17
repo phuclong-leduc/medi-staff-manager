@@ -1,10 +1,10 @@
 # Medi Staff Manager – Medical HR Management System
 
 ## 👥 Contributors
-* [@TuaLearnCode](https://github.com/TuaLearnCode) – Team leader, Database Design, Payroll and Statistics Manager
-* [@phunolg](https://github.com/phunolg) – Account Integration and Department Management, JavaFX Frontend  
+* [@TuaLearnCode](https://github.com/TuaLearnCode) – Team leader, Database Design, Payroll and Statistics Manager, JavaFX Frontend  
+* [@phunolg](https://github.com/phunolg) – Account Integration and Department Management
 * [@leducphuclong](https://github.com/leducphuclong) – Employee Management Module, System Architecture  
-* [@hoi936](https://github.com/hoi936) – Reporting, Testing & Salary Statistics Visualization
+* [@hoi936](https://github.com/hoi936) – Log in log out, Reporting, Testing & Salary Statistics Visualization
 
 
 ---
